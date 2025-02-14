@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiIgAAAAAAID4+AgAAAAAgIj4CAAAAACAiPgIAAAAAID4+AgAAAAAAIiIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player1"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAABwd3d3AAAAcHd393cHAAB3d3d3/3cAAHd3f3f3dwBwd3d3d/d/AAB3d3d3d38AAHd3d3d3fwAAd3d3d/d/AABwd393/3cAAHB3d3d/BwAAcHd3d3cHAAAAd3d3dwAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player1 Mode 3"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAICIiIiIiAAAAIiIiIiIAAAAiIiIiIgAAACIiIiIiAAAgIv8iIiICACIi/yIiIgIAIiIiIiIiAgAiIiIiIiICACIiIiIiIgIAIiLyLyIiAgAiIvIvIiIAACAiIiIiAgAAAAAiIgIAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player1 Mode2"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
