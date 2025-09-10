@@ -1,6 +1,6 @@
-controller.B.onEvent(ControllerButtonEvent.Pressed, function () {
+controller.up.onEvent(ControllerButtonEvent.Pressed, function () {
     if (Player1.isHittingTile(CollisionDirection.Bottom)) {
-        Player1.vy = -275
+        Player1.vy = -200
     }
 })
 controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
